@@ -1,0 +1,65 @@
+{
+    "Plástico": [
+      { "nome": "Garrafa PET", "imagem": "gaPET.png" },
+      { "nome": "Sacola Plástica", "imagem": "sacola.png" },
+      { "nome": "Copo plástico", "imagem": "copp.png" },
+      { "nome": "Canudo", "imagem": "can.png" },
+      { "nome": "tamp", "imagem": "tamp.png" },
+      { "nome": "gal", "imagem": "gal.png" }
+
+
+    ],
+    "Metal": [
+      { "nome": "Lata de Alumínio", "imagem": "LAT.png" },
+      { "nome": "Tampinha", "imagem": "LAC.png" },
+      { "nome": "Lata", "imagem": "lata.png" },
+      { "nome": "Mola", "imagem": "mol.png" },
+      { "nome": "Talher", "imagem": "tal.png" },
+      { "nome": "clip", "imagem": "clip.png" }
+
+    ],
+    "Papel": [
+      { "nome": "Papelão", "imagem": "papelao.png" },
+      { "nome": "Folha de Papel", "imagem": "papel.png" },
+      { "nome": "coppp", "imagem": "coppp.png" },
+      { "nome": "pps", "imagem": "pps.png" },
+      { "nome": "cax", "imagem": "cax.png" },
+      { "nome": "jor", "imagem": "jor.png" },
+      { "nome": "bol", "imagem": "bol.png" }
+
+    ],
+    "Vidro": [
+      { "nome": "Vidro", "imagem": "vidro.png" },
+      { "nome": "Frasco", "imagem": "frasco.png" },
+      { "nome": "Copo", "imagem": "cop.png" },
+      { "nome": "Cacos", "imagem": "caco.png" },
+      { "nome": "Espelho", "imagem": "esp.png" }
+
+    ],
+    "Orgânico": [
+      { "nome": "maça", "imagem": "mac.png" },
+      { "nome": "laranja", "imagem": "lar.png" },
+      { "nome": "tomate", "imagem": "tom.png" },
+      { "nome": "peixe", "imagem": "pex.png" },
+      { "nome": "ovo", "imagem": "ovo.png" },
+      { "nome": "melancia", "imagem": "mel.png" },
+      { "nome": "folha", "imagem": "fol.png" },
+      { "nome": "cenoura", "imagem": "cen.png" },
+      { "nome": "brocolis", "imagem": "bro.png" },
+      { "nome": "banana", "imagem": "ban.png" }
+
+    ],
+    "Não\nReciclável": [
+      { "nome": "Vacina", "imagem": "vac.png" },
+      { "nome": "fralda", "imagem": "fra.png" },
+      { "nome": "bucha", "imagem": "buch.png" },
+      { "nome": "cig", "imagem": "cig.png" },
+      { "nome": "esc", "imagem": "esc.png" },
+      { "nome": "iso", "imagem": "iso.png" },
+      { "nome": "mas", "imagem": "mas.png" },
+      { "nome": "pilha", "imagem": "pilha.png" },
+      { "nome": "fralda", "imagem": "fra.png" }
+
+    ]
+  }
+  

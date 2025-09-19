@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "App Ecco",
+    "slug": "AppEcco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ecco.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/ecco.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ecco.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.AppEcco"
+    },
+    "web": {
+      "favicon": "./assets/ecco.png"
+    }
+  }
+}
